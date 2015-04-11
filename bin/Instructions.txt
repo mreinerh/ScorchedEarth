@@ -1,0 +1,32 @@
+Tic-Tac-Toe:
+	
+	This game is made up of two players: Player X and Player O. The players take turns selecting
+	a tile on the game board to mark their letter in the respective tile. The player who succeeds 
+	in placing three respective marks in a horizontal, vertical, or diagonal row wins the game. If
+	there are not three respective marks in a row when all the tiles are full, then the game is a 
+	draw and neither player wins.
+
+	The player who's current turn it is, the players' win counts, and the count of draws are all 
+	displayed in the panel to the right of the game board.
+
+	To reset the game board and start the current game over, press the button labeled 'Reset Board'.
+	This will not reset the win/draw counts. To reset the win/draw counts, press the button labeled
+	'Reset Scores'. To return to the main menu, press the button labeled 'Main Menu'. This will end
+	the current game and reset the board, but the scores will remain should you decide to return to 
+	play tic-tac-toe.
+
+	If you are upset with the move you made, or made an accidental move, you can press 'CTRL + Z' to
+	undo the last move. If you continue to press this key combination, each previous move will be 
+	undone one at a time until the entire board is reset. 
+
+Scorched Earth:
+
+	The objective of Scorched Earth is to shoot a projectile at the other player's tank and reduce all
+	of the player's health. The player who reduces the other player's health to zero wins. To play, each
+	player will input both the power and the angle of the shot using the slider bars at the bottom of the
+	screen and press the submit button to add it to a queue. The players will go back and forth adding shots
+	until both players have added five shots. One round of Scorched Earth consists of these five shots, and
+	they will be fired by pressing the 'Fire' button at the bottom of the screen after all five shots have 
+	been chosen by each player. The round will then play out. If there is not a winner, then another round 
+	will commence. If there is a winner, a message will be displayed to display the winner, and the players 
+	will be asked if they want to play again.	

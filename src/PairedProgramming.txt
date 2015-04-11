@@ -1,0 +1,15 @@
+James Hagan, Matt Haneburger - P4
+
+Paired Programming
+
+The use of paired programming helped tremendously with this project. Since the Scorched Earth game was so complex, it helped to be able
+to sit down with somebody and go through the code line by line to figure out what is going on behind the scenes, and to figure out how
+to implement new methods and classes.
+
+We used the technique of one person writing code while the other person watches and/or does research for any problems that would arise.
+Having someone to doublecheck the code that we were writing in real time was a huge help and saved us numerous headaches and problems that
+would have arisen later down the road. 
+
+Not only did paired programming help us with error checking, but it also forced us to sit down together in person to work on this project. 
+Meeting in person is much more effective than working remotely, and we were able to table any problems or decisions we needed to make and 
+quickly has them out in order to save time and continue working diligently. 
